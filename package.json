@@ -1,6 +1,6 @@
 {
   "name": "zenavo-demo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "两个按钮跳转的最小 Web 应用，用于测试 Zenavo 部署",
   "main": "server.js",
   "scripts": {
